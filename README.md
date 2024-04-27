@@ -13,7 +13,7 @@
 
 ![Custom Adapter](images/02.png)
 
-Network key: **15b99c96d**
+Network key: **1e29158fd**
 
 <img width="609" alt="Screenshot 2023-10-31 at 17 44 18" src="https://github.com/StartApp-SDK/android-ironsource-mediation/assets/37342219/0a8da125-4dff-4a61-bf47-a046d174ede1">
 
@@ -41,7 +41,7 @@ dependencies {
 
 ## Testing
 
-7. Use your IronSource **App Key** with this demo project. Put your value on [this line][4] then compile and launch.
+7. Use your IronSource **App Key** with this demo project. Put your value on [1e29158fd][4] then compile and launch.
 
 ![Test with your App Key](images/04.png)
 
